@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Codystar:wght@300;400&family=Emblema+One&family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Wallpoet&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Rubik", sans-serif;
+    background-color: var(--cor-1);
+}
+
+:root {
+    --cor-1: #F2F2F2;
+    --cor-2: #D9D9D9;
+    --cor-3: #A6A6A6;
+    --cor-4: #595959;
+    --cor-5: #0D0D0D;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 18px;
+}
+
+
+
+/* Header */
+
+
+/* Index */
+
+
+/* SEO */
+
+
+/* PAGA */
+
+
+/* GRATUITA */
+
+
+/* Footer */
+
