@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Acessibilidade</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="/script.js" defer></script>
+    <link rel="stylesheet" href="CSS/style.css">
     
 </head>
 
@@ -13,15 +12,10 @@
 
 <div class="flexhead">
     <div id="logo"></div>
-    <div id="navega">
-        <nav>
-            <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="hostpaga.php">Host Paga</a></li>
-                <li><a href="hostgratuita">Host Gratuita</a></li>
-                <li><a href="SEO">SEO</a></li>
-            </ul>
-        </nav>
+    <div class="bnav">
+        <button onclick="document.location='hostgratuita.php'">HOST GRATUITA</button>
+        <button onclick="document.location='hostpaga.php'">HOST PAGA</button>
+        <button onclick="document.location='seo-chaves.php'">SEO</button>
     </div>
 </div>
     
